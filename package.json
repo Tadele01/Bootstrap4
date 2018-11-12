@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap4",
+  "version": "1.0.0",
+  "description": "This is bootstrap4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Tade01@bitbucket.org/Tade01/bootstrap4.git"
+  },
+  "author": "Tadele Yednkachw",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Tade01/bootstrap4#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
