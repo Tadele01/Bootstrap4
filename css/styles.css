@@ -7,7 +7,7 @@
     margin: 0px auto;
     padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
-    min-height: 400px;
+    min-height: 250px;
 }
 
 .footer{
@@ -35,4 +35,32 @@ body{
 }
 .navbar-dark{
     background: #512DAB;
+}
+.card-header{
+    background: #ffae42;
+}
+
+/* .btn-primary{
+    background: #ffae42;
+    color: #000;
+    
+}
+:hover.btn-primary{
+    background: #ffae42;
+    color: #000;
+    
+}
+:focus.btn-primary{
+    background: #ffae42;
+    color: #000;
+} */
+
+
+/* .btnreserve{
+    width: 170px;
+} */
+
+.btn-reserve{
+    background: #ffae42;
+    color: #000;
 }
